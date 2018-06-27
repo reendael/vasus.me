@@ -1,4 +1,47 @@
 baseURL = "https://vasus.me/"
 languageCode = "en-us"
-title = "Vasily 7"
 theme = "hugo-coder"
+title = "vasily shmatalyuk" # Site title.
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Vasily Shmatalyuk"
+    info = "Embedded Software / Hardware Engineer"
+    description = "Vasily's personal website"
+    keywords = "blog,portfolio,personal,resume"
+    #logo = "img/ava-mid-min.png"
+    hideCredits = true
+    hideCopyright = false
+
+#[[params.social]]
+#    name = "Github"
+#    weight = 1
+#    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "Resume"
+    weight = 1
+    url = "/vasily_resume.pdf"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 2
+    url = "https://www.linkedin.com/in/shmatalyuk/"
+[[params.social]]
+    name = "Spotify"
+    weight = 3
+    url = "https://open.spotify.com/user/ventestre"
+
+# Menu links
+#[[menu.main]]
+#    name = "About"
+#    weight = 1
+#    url = "/about/"
+#[[menu.main]]
+#    name = "Projects"
+#    weight = 2
+#    url  = "/projects/"
