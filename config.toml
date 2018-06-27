@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
     description = "Vasily's personal website"
     keywords = "blog,portfolio,personal,resume"
     #logo = "img/ava-mid-min.png"
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
 #[[params.social]]
