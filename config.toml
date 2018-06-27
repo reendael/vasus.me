@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Vasily Shmatalyuk"
-    info = "Embedded Software / Hardware Engineer"
+    info = "Embedded Software / Electronics Engineer"
     description = "Vasily's personal website"
     keywords = "blog,portfolio,personal,resume"
     #logo = "img/ava-mid-min.png"
